@@ -1,7 +1,7 @@
  import { useContext } from "react";
 import { CartContext } from "../../components/store";
 import { useRouter } from "next/router";
-import Link from "next/Link";
+import Link from "next/link";
 import Button from "../../components/user/Button";
 import Login from './Login'
 export default function Complete(){
