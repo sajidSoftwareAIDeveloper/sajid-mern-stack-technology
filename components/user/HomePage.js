@@ -2,7 +2,7 @@
  import {useContext, useState} from 'react'
  import Profile from './profile';
  import Login from './Login'
-import Link from 'next/Link';
+import Link from 'next/link';
 import { CartContext } from '../store';
 import AddQuestion from '../quiz/AddQuestion';
 import Button from './Button'; 
