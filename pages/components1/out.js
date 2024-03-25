@@ -1,6 +1,6 @@
 import { useContext } from "react"
 import { CartContext } from "../../components/store";
-import Link from 'next/Link'
+import Link from 'next/link'
 import Button from "../../components/user/Button";
 export default function welcome(){
 
