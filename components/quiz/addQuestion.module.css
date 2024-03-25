@@ -1,0 +1,15 @@
+.mainDiv{
+    width: 500px;
+    height: max-content;
+    margin-left: 250px;
+    margin: auto;
+    padding: 20px;
+    background-color: hsla(165, 100%, 84%, 0.757);
+
+} 
+.form{
+    border: 5px hsla(310, 100%, 98%, 0.308);
+}
+.answer{
+    margin-top: 10px;
+}

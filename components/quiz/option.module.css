@@ -1,0 +1,44 @@
+.textArea{
+    width: 350px;
+    height: 30px;
+    height: auto;
+    background-color: hwb(180 88% 0%);
+    padding: 10px;
+    margin-top: 20px;
+    border-radius: 5px;
+    border-width: 0px;
+}
+.label{
+    font-size: large;
+    color: rgb(255, 157, 45);
+}
+.labelOption radioOption{
+    font-size: large;
+}
+.inputOption{
+    margin-top: 10px;
+    width: 350px;
+    padding: 5px;
+    height: auto;
+    background-color: hwb(180 88% 0%); 
+    border-radius: 5px;
+    border-width: 0px;
+    border-color: rgb(153, 229, 194);
+}
+.questionOption answerOption{
+    width: 350px;
+    height: auto;
+    padding: 5px;
+}
+   /*  answer  related*/
+
+.question{
+    background-color: rgb(246, 105, 105);
+    margin: 10px;
+    padding: 5px;
+    border-radius: 10px;
+} 
+.option{
+    margin-left: 10px;
+    margin-top: 10px;
+}

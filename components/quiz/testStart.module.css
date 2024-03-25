@@ -1,0 +1,19 @@
+.main{
+    width: 500px;
+    height: auto;
+    margin: 250px;
+    margin: auto;
+    padding: 20px;
+    background-color: rgb(217, 255, 255);
+}
+.form{
+    border-radius: 5px;
+    font-size: medium;
+}
+.id{
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+    border-width: 1px;
+    padding: 5px;
+}

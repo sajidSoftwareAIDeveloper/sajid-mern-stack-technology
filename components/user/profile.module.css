@@ -1,0 +1,35 @@
+.main{
+    width: 500px;
+    margin-left: 250;
+    margin: auto;
+    padding: 15px;
+    background-color: rgb(180, 232, 201);
+    height: auto;
+}
+.tr{
+    padding: 5px;
+    border-radius: 5px;
+}
+.th{ 
+  padding: 5px;
+  color: rgb(244, 136, 136);
+  font-size: 25px;
+  border-radius: 5px;
+}
+.td{
+    padding: 5px;
+    font-size: 20px;   
+    border-radius: 5px;
+}
+.option{
+    width:auto;
+    height: auto;
+    margin: 10px;
+}  
+
+.select{
+    margin: 5px;
+    font-size: large;
+    border-radius: 5px;
+    padding: 5px;
+}
